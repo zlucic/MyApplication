@@ -15,6 +15,8 @@ import android.os.Build;
 
 public class MyActivity extends Activity {
 
+    //test
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
